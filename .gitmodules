@@ -1,0 +1,3 @@
+[submodule "wdnn"]
+	path = wdnn
+	url = https://github.com/farhat-lab/wdnn.git
